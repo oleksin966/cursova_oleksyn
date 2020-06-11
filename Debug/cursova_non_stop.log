@@ -1,0 +1,12 @@
+﻿  cursova_non_stop.cpp
+E:\Лабораторн\Курсова\cursova_non_stop\cursova_non_stop\Smartphones.h(116,9): warning C4101: a: неиспользованная локальная переменная
+E:\Лабораторн\Курсова\cursova_non_stop\cursova_non_stop\Smartphones.h(158,9): warning C4101: a: неиспользованная локальная переменная
+E:\Лабораторн\Курсова\cursova_non_stop\cursova_non_stop\Smartphones.h(217,27): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Лабораторн\Курсова\cursova_non_stop\cursova_non_stop\Clients.h(230,23): warning C4101: temp_num: неиспользованная локальная переменная
+E:\Лабораторн\Курсова\cursova_non_stop\cursova_non_stop\Clients.h(230,12): warning C4101: temp_price: неиспользованная локальная переменная
+E:\Лабораторн\Курсова\cursova_non_stop\cursova_non_stop\Clients.h(325,27): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Лабораторн\Курсова\cursova_non_stop\cursova_non_stop\Clients.h(417,27): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Лабораторн\Курсова\cursova_non_stop\cursova_non_stop\Administrator.h(15,30): warning C4584: Administrator: базовый класс "Smartphone" уже является базовым классом для "Client"
+E:\Лабораторн\Курсова\cursova_non_stop\cursova_non_stop\Smartphones.h(10): message : см. объявление "Smartphone"
+E:\Лабораторн\Курсова\cursova_non_stop\cursova_non_stop\Clients.h(14): message : см. объявление "Client"
+  cursova_non_stop.vcxproj -> E:\Лабораторн\Курсова\cursova_non_stop\Debug\cursova_non_stop.exe

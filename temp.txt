@@ -1,0 +1,7 @@
+
+8;android;nokia;k1;120x60x23;intel;2012;17;2;5600;3;
+9;android;samsung;redmi note;130x56x14;intel;2014;16;2;3400;2;
+
+
+1;Ivan;Oleksin;19;oleksin.966@gmail;+3804544535;Ua;Oleksin;pass;0;0;
+3;kolia;oleksin;34;oleksin@hmail.com;e342424423;UA;Jommble;qwer;0;0;

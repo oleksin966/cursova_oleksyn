@@ -1,0 +1,3 @@
+1;android;nokia;k1;2012;120x60x20;Exure 4s;17;2;5600;1;
+2;android;xiomi;redmi note;2018;130x50x25;Exure 4s;16;2;3400;4;
+3;ios;iphone;5s;2014;140x70x25;Apple A5;16;2;9000;4;
